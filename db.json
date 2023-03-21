@@ -2,6 +2,8 @@
   "test": [
     { "pc":3 }
   ],
-  "check":["id":1,"ok":"so"]
+  "check":[
+    {"id":1,"ok":"so"}
+  ]
 
 }
